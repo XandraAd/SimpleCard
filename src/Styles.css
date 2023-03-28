@@ -1,0 +1,52 @@
+.Container {
+    background-color: rgb(123, 144, 248);
+    height: 70%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(59, 17, 136);
+    position: absolute;
+  
+
+  }
+
+  .pics {
+    border: 1px solid gold;
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+    
+       }
+
+  .image {
+        width: 400px;
+        height: 400px;
+        margin: 2px;
+        border: 1px solid gold;
+         }
+
+    .Card-body {
+        margin-top: 0px;
+        margin-bottom: 200px;
+        font-size: 2em;
+        height: 40%;
+    }     
+
+         h1.header {
+            color: gold;
+            font-size: 4rem;
+            text-decoration: underline;
+            padding: 5px;
+         }
+
+
+         p {
+                 font-weight: normal;
+                 font-size: 2.5em;
+                 font-style: italic;
+         }
+
+         
+
+  
